@@ -17,10 +17,12 @@
 ## 四、硬件地址
 - 实验台IO地址
   ![image](https://github.com/user-attachments/assets/b1eda35e-a01f-409b-8f49-89c7b46348cd)
-
+  
 - 8255A端口地址
-
    ![image](https://github.com/user-attachments/assets/e8c04f0e-f7c6-42cd-9990-e88b31a0a9ae)
+
+- ADC0809接线
+   ![image](https://github.com/user-attachments/assets/c9b83454-db80-4ac9-bb6b-97fb0f04fa7d)
 
 - 七段数码管电路原理图
   ![image](https://github.com/user-attachments/assets/6bba9cb9-ed24-4c65-b1a6-93cdef1a71d8)
