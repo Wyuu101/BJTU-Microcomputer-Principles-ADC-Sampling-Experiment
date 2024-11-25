@@ -19,6 +19,7 @@
   ![image](https://github.com/user-attachments/assets/b1eda35e-a01f-409b-8f49-89c7b46348cd)
   
 - 8255A端口地址
+
    ![image](https://github.com/user-attachments/assets/e8c04f0e-f7c6-42cd-9990-e88b31a0a9ae)
 
 - ADC0809接线
